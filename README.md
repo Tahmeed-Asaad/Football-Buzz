@@ -14,7 +14,7 @@
 
 ## Introduction
 
-This website is a blog site about football. Registered users can post articles, comment on them, vote on polls, etc. They can view all the posts, sort the posts, see their post's total comment, total views.
+This website is a blog site about football. Registered users can post articles, comment on them, vote on polls, etc. They can view all the posts, sort the posts, see their post's total comment, total views. This was a group project built for an undergraduate academic course.
 
 ## Features
 
@@ -34,12 +34,11 @@ This website is a blog site about football. Registered users can post articles, 
   * The articles are divided into different categories to make things easier for all users
   
   ## Technologies
-  * Java
-  * JavaFX
+  * PHP
   * XAMPP
   * HTML
   * MySQL
-  * Scene builder
+  * CSS
   
   ## Demo Screenshots
   
@@ -108,7 +107,4 @@ This website is a blog site about football. Registered users can post articles, 
  </div>
 
  ## Setup
- 
-'Medical_Assistant.java' file should be built at first using any Java supported IDE. During building if some libraries are missing then 
-'MEDICAL ASSISTANT\APACHE LANG3 LIBRARY\commons-lang3-3.6\commons-lang3-3.6.jar' file should be imported. XAMPP server should be setup locally.Then using 'phpMyAdmin' a 
-database named 'medical_assistant' should be created from there the 'REQUIRED SQL TABLE\medical_assistant (1).sql' file should be imported. Now the project is ready to run.
+XAMPP server should be set up locally. Then using 'phpMyAdmin' a database named 'projectf' should be created from there the 'project.sql' file should be imported. The whole project folder should be copied to the 'htdocs' folder of the XAMPP installation directory. After that in the web browser 'http://localhost/Football Buzz/filename.php' should be typed to access any page according to the file name.
