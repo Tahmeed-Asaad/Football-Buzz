@@ -14,22 +14,24 @@
 
 ## Introduction
 
-This is a java application that may help a user to find his/her diseases after giving the disease symptoms as input. This application/tool also provides medicines and preventive measures for the users. TBW (Total Body Water) and LBW (Lean Body Weight) of a person could also be known by using two different calculators which are also added in this application/tool.This was a group project built for an undergraduate academic course.
+This website is a blog site about football. Registered users can post articles, comment on them, vote on polls, etc. They can view all the posts, sort the posts, see their post's total comment, total views.
 
 ## Features
 
 
-  * Provide an interface where the user can select the symptom/symptoms which he/she is suffering from
+  * Registered users can post articles with an image and article title.
   
-  * The application will tell the name of the disease based on the information received.
+  * Registered users can also comment on any articles
   
-  * It will suggest some medicines/therapy helping the user cure himself/herself
+  * Registered users can vote on any polls available on the site
   
-  * It will also suggest some precautions which can help to prevent the disease
+  * Registered users can add a profile picture and update it anytime
   
-  * So far the application can identify 49 distinct disease
+  * Registered users can also update their profile information
   
-  * There are 173 distinct symptoms given to the users to select from
+  * Non-registered users can not post any articles or comment on them but they can view all of them
+  
+  * The articles are divided into different categories to make things easier for all users
   
   ## Technologies
   * Java
